@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Tech Library App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Link Application:
+https://tech-library-app.vercel.app/
 
-## Available Scripts
+## Technologies
 
-In the project directory, you can run:
+React Js.\
+React Dnd .\
+React Router dom.\
+Styled Components
+
+  <img alt="library tech" src="./librarytech.gif" />
 
 ### `npm start`
 
