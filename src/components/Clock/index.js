@@ -13,9 +13,8 @@ const Clock = () => {
   },[])
   
   const getHour = async () => {
-    const s = 10
-    const m = 30 + (s / 6);
-    const h = 15 * 30 + (m / 12);
+    const m = new Date().getMinutes() + (s / 6);
+    const h = new Date().getHours() * 30 + (m / 12);
     setMinute(m);
     setHour(h);
   };

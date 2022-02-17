@@ -35,5 +35,5 @@ export const Minute = styled.div`
   left: 50%;
   position: relative;
   transform: rotate(${props => (props.rotateMinute)}deg);
-  transform-origin: 0% 0%;
+  transform-origin: 15% 0%;
 `;
