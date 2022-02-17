@@ -10,6 +10,8 @@ React Dnd .\
 React Router dom.\
 Styled Components
 
+  <img alt="library tech" src="./librarytech.gif" />
+
 ### `npm start`
 
 Runs the app in the development mode.\
